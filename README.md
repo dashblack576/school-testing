@@ -1,3 +1,3 @@
 # school-testing
-Hello Folks
+Hello Folks \n
 We're just messing around in class
