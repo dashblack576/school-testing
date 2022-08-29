@@ -1,3 +1,2 @@
 # school-testing
-Hello Folks \n
-We're just messing around in class
+Hello Folks, we're just messing around in class
